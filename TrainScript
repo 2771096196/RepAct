@@ -1,0 +1,8 @@
+python train.py --runModel mobilenet_v3_small --runAct RepAct_Softmax
+python train.py --runModel mobilenet_v3_small --runAct RepAct_Origin
+python train.py --runModel mobilenet_v3_small --runAct RepAct_Origin_Reconstruct
+python train.py --runModel mobilenet_v3_small --runAct ReLU
+python train.py --runModel mobilenet_v3_small --runAct HardSwish
+python train.py --runModel mobilenet_v3_small --runAct DYReLU
+python train.py --runModel mobilenet_v3_small --runAct FReLU
+# Have more combinations according to the above form...
