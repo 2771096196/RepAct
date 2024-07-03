@@ -16,8 +16,8 @@ On **ImageNet100**, **RepAct boosts the Top-1 accuracy of MobileNetV3-Small by 7
 
 You can test the experimental data in the Result section by downloading the corresponding Python library dependencies using [requirements.txt](requirements.txt) and then using the [TrainScript](TrainScript)  along with the reference TrainScript script format.
 
-The [Imagenet100](https://pan.baidu.com/s/1bXr1mqjnVr9UqKBaJZmnKQ 
-提取码：1234 ) dataset is a subset of the ImageNet2012-1k dataset, consisting of 100 selected categories. This subset was chosen due to resource constraints and limitations on server resources for conducting comparative experiments.
+The [Imagenet100](链接：https://pan.baidu.com/s/1z_dUS06r0h7ZKweRBZLVBw 
+提取码：1234) dataset is a subset of the ImageNet2012-1k dataset, consisting of 100 selected categories. This subset was chosen due to resource constraints and limitations on server resources for conducting comparative experiments.
 
 Other test result data is sourced from the following open-source projects:
 
