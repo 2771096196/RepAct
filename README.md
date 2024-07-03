@@ -226,6 +226,6 @@ Thou@stu.scu.edu.cn
 Citation:
 
 ```
-coming soon
+https://arxiv.org/abs/2407.00131
 ```
 
